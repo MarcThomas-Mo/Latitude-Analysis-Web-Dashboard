@@ -1,0 +1,82 @@
+img.landing_img {
+    width : 17em;
+    height: 17em;
+}
+
+img.sample_img {
+    width: 40%;
+    height: 40%;
+    margin-left: 2em;
+}
+
+.padding-0 {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+img.comp_img {
+    width: 50%;
+    height: 50%;
+}
+
+h2{
+    color: lightseagreen;
+    font-family: "Times New Roman", Times, serif;
+}
+h4 {
+    color: lightseagreen;
+    font-family: "Times New Roman", Times, serif;
+
+}
+.navbar-brand {
+    background-color: lightseagreen;
+    color: white;
+    text-align: center;
+    margin-left: 5%;
+    padding: .5em;
+    border-radius: 2px;
+    font-family: "Georgia";
+    font-size: 120%;
+    font-weight: bold;
+    display: inline-block;
+}
+
+body {
+    background-color: rgb(233, 232, 232);
+}
+
+.card{
+    margin-top: 2em;
+    margin-right: 1em;
+    margin-left: 5em;
+}
+
+.button {
+    color: white;
+    margin-top: 1em;
+    margin-right: 1em;
+    margin-left: 1em;
+    padding: 1em;
+}
+
+table {
+    backgroud-color: white;
+    margin-top: 1em;
+    margin-right: 1em;
+    margin-left: 20em;
+    padding: 1em;
+}
+
+tbody {
+    background-color: white;
+}
+
+thead{
+    background-color: whitesmoke
+}
+
+#visual {
+    flex-wrap: wrap;
+    padding: 1em;
+    text-align: center
+}
